@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.as{
+  margin-left: 25px;
+  padding: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.fff{
+  padding: 20px;
+}
+body{
+  background-color: #56ad51;
+}
