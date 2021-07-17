@@ -15,15 +15,15 @@ body{
 }
 @media (max-width: 600px) {
   .as{
-    margin-left: 250px;
-    padding: 70px;
-    padding-left: 200px;
-    padding-right: 200px;
-    font-size: 130px;
+    margin-left: 75px;
+    padding: 21px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 39px;
   }
   .fff{
-    padding: 200px;
-    font-size: 160px;
+    padding: 60px;
+    font-size: 48px;
   }
   body{
     background-color: #56ad51;
