@@ -4,10 +4,28 @@
   padding: 7px;
   padding-left: 20px;
   padding-right: 20px;
+  font-size: 13px;
 }
 .fff{
   padding: 20px;
+  font-size: 16px;
 }
 body{
   background-color: #56ad51;
+}
+@media (max-width: 600px) {
+  .as{
+    margin-left: 250px;
+    padding: 70px;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 130px;
+  }
+  .fff{
+    padding: 200px;
+    font-size: 160px;
+  }
+  body{
+    background-color: #56ad51;
+  }
 }
