@@ -12,20 +12,22 @@
 }
 body{
   background-color: #56ad51;
+  text-align: center;
 }
 @media (max-width: 600px) {
   .as{
-    margin-left: 75px;
-    padding: 21px;
-    padding-left: 60px;
-    padding-right: 60px;
-    font-size: 39px;
+    margin-left: 50px;
+    padding: 14px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 26px;
   }
   .fff{
-    padding: 60px;
-    font-size: 48px;
+    padding: 20px;
+    font-size: 32px;
   }
   body{
     background-color: #56ad51;
+    text-align: center;
   }
 }
